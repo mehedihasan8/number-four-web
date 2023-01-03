@@ -5,3 +5,18 @@ h1 {
     justify-content: center;
     margin-top: 50px;
 }
+
+p {
+    color: royalblue;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 500;
+}
+h3{
+    color: rebeccapurple;
+    font-style: unset;
+    text-align:center;
+    font-size: 25px;
+    font-weight: 600;
+}
